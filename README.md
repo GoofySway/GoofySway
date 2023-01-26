@@ -1,16 +1,16 @@
 ### Hi there 👋 This is my Personal Repository
 
-<!--
-**GoofySway/GoofySway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**GoofySway/GoofySway** This is my new repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
+- 🔭 I’m currently working on applications for College
+- 🌱 I’m currently learning how to code 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with codeing as i'm a beginner 
+- 💬 Feel free to about sports or movies with me 
+- 📫 How to reach me: Intagram @sway.02 / Gmail @josueu828@gmail.com
+
+
+
