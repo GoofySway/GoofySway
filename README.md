@@ -1,7 +1,7 @@
-### Hi there 👋 This is my Personal Repository
+### Hi there 👋 Welcome to my Repository
 
 
-**GoofySway/GoofySway** This is my new repository because its `README.md` (this file) appears on your GitHub profile.
+**GoofySway/GoofySway**
 
 
 
@@ -12,5 +12,15 @@
 - 💬 Feel free to talk to me about sports or movies or social dramas.
 - 📫 How to reach me: Intagram @sway.02 / Gmail @josueu828@gmail.com.
 
+<h2>List of hobbies</h2>
 
+
+
+<ol>
+  <li>Soccer :soccer:</li>
+  <li>Movies 🎥</li>
+  <li>Designing Content 🖥️</li>
+  <li>Traveling :airplane:</li>
+  <li>Cars :racing_car:</li> 
+</ol>
 
